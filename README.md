@@ -28,16 +28,22 @@ In conclusion, this pivotal project aimed to harness the potential of deep learn
 
 1. Simple CNN Model:
 
-  **Training Accuracy: 91%** \\
-  **Validation Accuracy: 91%** \\
-  **Testing Accuracy: 87%** \\
+  **Training Accuracy: 91%**
+  
+  **Validation Accuracy: 91%**
+  
+  **Testing Accuracy: 87%**
+  
   The Simple CNN model, despite its minimalistic architecture, demonstrated remarkable performance in distinguishing between pneumonia and non-pneumonia chest X-ray images.
 
 2. Enhanced CNN Model:
 
-  **Training Accuracy: 95%** \\
-  **Validation Accuracy: 95%** \\
-  **Testing Accuracy: 90%** \\
+  **Training Accuracy: 95%**
+  
+  **Validation Accuracy: 95%**
+  
+  **Testing Accuracy: 90%**
+  
   The Enhanced CNN model exhibited a notable improvement over the Simple CNN, showcasing the effectiveness of additional layers and regularization techniques in capturing intricate patterns while maintaining generalization.
 
 3. Transfer Learning with ResNet50:
