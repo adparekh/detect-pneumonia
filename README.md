@@ -28,9 +28,7 @@ In conclusion, this pivotal project aimed to harness the potential of deep learn
 
 1. Simple CNN Model:
 
-  **Training Accuracy: 91%**
-  
-  **Validation Accuracy: 91%**
+  **Training and Validation Accuracies: 91%**
   
   **Testing Accuracy: 87%**
   
@@ -38,9 +36,7 @@ In conclusion, this pivotal project aimed to harness the potential of deep learn
 
 2. Enhanced CNN Model:
 
-  **Training Accuracy: 95%**
-  
-  **Validation Accuracy: 95%**
+  **Training and Validation Accuracies: 95%**
   
   **Testing Accuracy: 90%**
   
@@ -48,9 +44,7 @@ In conclusion, this pivotal project aimed to harness the potential of deep learn
 
 3. Transfer Learning with ResNet50:
 
-  **Training Accuracy: 96%**
-  
-  **Validation Accuracy: 93%**
+  **Training and Validation Accuracies: 96% and 93%**
   
   **Testing Accuracy: 83%**
   
@@ -58,9 +52,7 @@ In conclusion, this pivotal project aimed to harness the potential of deep learn
 
 4. Fine-Tuned ResNet50:
 
-  **Training Accuracy: 96%**
-  
-  **Validation Accuracy: 96%**
+  **Training and Validation Accuracy: 96%**
   
   **Testing Accuracy: 86%**
   
