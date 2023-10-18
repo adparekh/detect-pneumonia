@@ -48,16 +48,22 @@ In conclusion, this pivotal project aimed to harness the potential of deep learn
 
 3. Transfer Learning with ResNet50:
 
-  **Training Accuracy: 96%** \\
-  **Validation Accuracy: 93%** \\
-  **Testing Accuracy: 83%** \\
+  **Training Accuracy: 96%**
+  
+  **Validation Accuracy: 93%**
+  
+  **Testing Accuracy: 83%**
+  
   While the Transfer Learning model leveraged the knowledge from ImageNet, it exhibited a significant reduction in testing accuracy, indicating potential overfitting, which highlighted the need for addressing this challenge.
 
 4. Fine-Tuned ResNet50:
 
-  **Training Accuracy: 96%** \\
-  **Validation Accuracy: 96%** \\
-  **Testing Accuracy: 86%** \\
+  **Training Accuracy: 96%**
+  
+  **Validation Accuracy: 96%**
+  
+  **Testing Accuracy: 86%**
+  
   The Fine-Tuned ResNet50 model, with its focus on selective fine-tuning, achieved both high training and validation accuracies. It notably improved testing accuracy, mitigating the overfitting issue and providing a more reliable and generalizable model.
 
 In summary, our journey through these model architectures revealed a clear progression in accuracy from the Simple CNN model to the Fine-Tuned ResNet50 model. The fine-tuned approach addressed overfitting concerns and achieved a commendable testing accuracy, making it the most promising model for pediatric pneumonia classification. Although the fine-tuned ResNet50 has a low testing accuracy, such an issue can be easily mitigated by regularization techniques such as Dropout regularization, L1, L2 regularization and so on.
